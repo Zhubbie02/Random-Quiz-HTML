@@ -1,0 +1,17 @@
+.quizContainer  {
+    text-align: center;
+    background-color: rgb(179, 142, 162);
+    margin: auto;
+    padding-top: 10rem;
+    height: 30rem;
+}
+input {
+    background-color: rgb(48, 48, 160);
+}
+button {
+    border-radius: 25px;
+    background-color: rgb(81, 81, 128);
+    padding: 10px;
+    color: white;
+    margin-top: 1rem
+}
